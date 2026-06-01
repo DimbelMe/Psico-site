@@ -186,7 +186,7 @@ body::before {
     background: linear-gradient(
         to right,
         rgba(38, 97, 70, 0) 0%,
-        #143325 100%
+        hsl(36, 26%, 41%, 0.77) 100%
     );
 }
 
